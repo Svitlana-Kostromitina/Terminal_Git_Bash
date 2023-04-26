@@ -2,6 +2,8 @@
 
 **Git Bash** - це термінал, який постачається разом з Git. Git Bash дозволяє виконувати команди Git та команди UNIX на Windows-платформі, що робить його корисним інструментом.
 
+### [Приклади з курсів](https://github.com/Svitlana-Kostromitina/Terminal_examples_from_courses/blob/main/README.md)
+
 ## Зміна директорії/Change Directory
 
 **`pwd`** - подивитися де знаходишся
